@@ -1,0 +1,50 @@
+.container-1 {
+    background-color:#F9DCD1;
+}
+.ms-1 {
+    margin-left: ($spacer * .25) !important;
+  }
+  .border{
+    
+  }
+  .laptop {
+   border-style: outset;
+  }
+  .gadgets{
+    display: flex;
+  }
+  .new-arrivals{
+    display: flex;
+  }
+  .reading-card{
+    align-content: space-evenly;
+    margin-left: 60px;
+  }
+  .sec{
+    background-color: rgb(241,241,241);
+  }
+  .text-1{ 
+    font-size: 12px !important;
+    color: rgb(82, 82, 82);
+    font-weight: 700 !important;
+  }
+  .section-1{
+      background-color: rgb(241,241,241);
+      text-align: center;
+  }
+  .evenly-flex{
+    margin-left: 70px;
+  }
+body{
+  overflow: ;
+}
+.icons{
+  margin-left: 20px;
+  margin-bottom: 20px
+}
+.sect{
+  margin-top: 70px
+}
+.arrow{
+  margin-left: 500px;
+}
